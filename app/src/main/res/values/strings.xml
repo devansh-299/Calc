@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name = "infodoc">
+        Hey User!
+                 The following app was developed by Devansh Agarwal with support of Khizir Siddiqui using Android Studio!
+        There are chances that this might not be a perfect app, so you ,our user, are requested to give your feedback and report us in any case
+        to help us improve the app
+        Thank you for using our product!
+    </string>
+</resources>
